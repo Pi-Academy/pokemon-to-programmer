@@ -1,5 +1,5 @@
 ![Pokemon to Programmer](หน้าปก2.jpg)
-!(mix.gif)
+![Demo](mix.gif)
 
 # Pokemon to Programmer 🐍
 
