@@ -1,7 +1,10 @@
-# pokemon-to-programmer
+![Pokemon to Programmer](หน้าปก2.jpg)
+
+# Pokemon to Programmer 🐍
+
 A comprehensive Python learning journey from absolute beginner to advanced programmer. This repository contains structured lessons, exercises, and projects designed to transform complete beginners (Pokemon trainers) into skilled Python programmers. Perfect for anyone starting their programming adventure with zero prior experience.
 
-🐍 Features:
+## 🐍 Features:
 - Step-by-step Python tutorials from basics to advanced concepts
 - Hands-on coding exercises and challenges
 - Real-world projects to build your portfolio
